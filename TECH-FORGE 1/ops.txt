@@ -1,0 +1,65 @@
+OPERADOR(){
+==
+===
+!=
+!==
+<
+>
+<=
+>=
+||
+&&
+!
+
+OPERADOR numerico{
+sqrt = √(raiz quadrada), 
+pow = ** (potencia/exponenciação)
+ 
+ADIÇÃO(+): 
+SUBTRAÇÃO(-):
+MULTIPLIAÇÃO(*): 
+DIVISÃO(/):
+RESTO DA DIVISÃO(%):
+INCREMENTO (++): 
+DECRIMENTO (--): 
+EXPONENCIAÇÃO || POTENCIAÇÃO (**): 
+ 
+}
+}DESCRIÇÃO(
+    ==
+    ===
+
+    !=
+    !==
+
+    <
+    >
+
+    <=
+    >=
+
+    ||
+
+    &&
+
+    !
+    
+){
+
+ IGUAL A
+ IDENTICO
+
+ DIFERENTE
+ DIFERENTE EM VALOR
+
+ MENOR QUE
+ MAIOR QUE
+
+ MENOR OU IGUAL 
+ MAIOR OU IGUAL
+
+ E
+ OU
+
+ NEGAÇÃO 
+}
