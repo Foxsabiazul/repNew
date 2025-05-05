@@ -1,0 +1,25 @@
+body{
+    background:#444;
+    color:#CCC
+}
+
+header{
+    background:#222;
+    padding:20px
+}
+
+header h1{
+    font: 30px Tahoma, Arial;
+}
+
+main{
+    width: 1000px;
+    margin: auto;
+    font-family: Arial, Verdana;
+}
+
+main h1{
+    font-size: 22px;
+}
+
+/*# sourceMappingURL=style.css.map */

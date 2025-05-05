@@ -1,0 +1,40 @@
+$primary: #222;
+$secondary: #444;
+$clear: #CCC;
+$font1: Tahoma, Arial;
+$font2: Arial, Verdana;
+$size1: 30px;
+$size2: 22px;
+
+body {
+    background: $secondary;
+    color: $clear;
+}
+
+header {
+    background: $primary;
+    padding: 20px;
+    h1{
+        font-family: $size1 $font1;
+    }
+}
+
+main{
+    width: 1000px;
+    margin: auto;
+    font-family: $font2;
+    h1{
+        font-size: $size2;
+    }
+    p{
+        font-family: $font1;
+    }
+}
+
+footer{
+    background-color: $primary;
+    font: $size1 $font1;
+    p{
+        text-align: center;
+    }
+}

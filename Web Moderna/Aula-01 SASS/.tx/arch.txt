@@ -1,0 +1,16 @@
+Folhas de estilo 
+em cascata (CSS) 
+aplicam formatação em páginas HTML 
+para melhor apresentar os dados. 
+Essa apresentação envolve a estilização de elementos, 
+como títulos, 
+parágrafos, tabelas e outros. 
+Além disso, 
+define layouts para diversos tipos de dispositivos, 
+como desktops, 
+tablets e smartphones.
+
+Quer saber como?
+
+Veja no Infográfico a seguir.
+
